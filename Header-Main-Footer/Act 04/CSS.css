@@ -1,0 +1,14 @@
+header{
+    height:100px;
+    background-color:blue;
+}
+
+main{
+    height:200px;
+    background-color:pink;
+}
+
+footer{
+  height:300px;
+  background-color:green;
+}
