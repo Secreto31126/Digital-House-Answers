@@ -1,0 +1,24 @@
+body{
+  background-color: grey;
+}
+h1{
+  color: #E82C0C;
+  background-color: #0DFFAD;
+  font-family: 'Dancing Script', cursive;
+  font-size: 55px;
+}
+h2{
+  color: #FFE636;
+  background-color: #633EE8;
+}
+p{
+  background-color: white;
+}
+.listauno{
+  color: red;
+  background-color: white;
+}
+.listados{
+  color: green;
+  background-color: white;
+}
