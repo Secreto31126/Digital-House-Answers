@@ -1,0 +1,23 @@
+body{
+  background-color: grey;
+}
+h1{
+  color: #E82C0C;
+  background-color: #0DFFAD;
+  font-family: "Dancing Script", sans-serif;
+}
+h2{
+  color: #FFE636;
+  background-color: #633EE8;
+}
+p{
+  background-color: white;
+}
+.listaUno{
+  color: red;
+  background-color: white;
+}
+.listaDos{
+  color: green;
+  background-color: white;
+}
