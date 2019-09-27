@@ -1,0 +1,34 @@
+body{
+  background-color: grey;
+}
+h1{
+  color: #E82C0C;
+  background-color: #0DFFAD;
+  font-family: 'Dancing Script', cursive;
+  font-size:55px;
+}
+h2{
+  color: #FFE636;
+  background-color: #633EE8;
+  font-style:italic;
+  font-size:40px;
+  height:55px;
+  font-family: 'Concert One', cursive;
+}
+p{
+  background-color: white;
+  font-size:20px;
+  font-style:italic;
+  font-family:sans-serif;
+}
+.listaUno{
+  color: red;
+  background-color: white;
+  font-size:20px;	
+}
+.listaDos{
+  color: green;
+  background-color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
