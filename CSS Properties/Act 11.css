@@ -1,0 +1,18 @@
+*{
+  background-color: #5BFF98;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+h1{
+  text-align: center;
+  text-decoration: overline, underline;
+}
+h2{
+  text-align: right;
+}
+p{
+  text-align: justify;
+}
+img{
+  width: 50%;
+}
