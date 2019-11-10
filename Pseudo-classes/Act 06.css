@@ -1,0 +1,13 @@
+h2:hover{
+  color:red;
+}
+.rojo:hover{
+  color:red;
+}
+.verde:hover{
+  color:green;
+}
+p:hover{
+  background-color:grey; 
+  color:#ff0000;
+}
