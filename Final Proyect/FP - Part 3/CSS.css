@@ -1,1 +1,47 @@
-
+.subtitulo-main{
+  background-color: lightcoral;
+  color: blue;
+  font-size: 30px;
+}
+.imagen-main{
+  width: 50%;
+  height: auto;
+}
+.imagen-footer{
+  width: 5%;
+  height: auto;
+}
+#consejos{
+  background-color: lightblue;
+}
+body{
+  font-family: 'Satisfy', cursive;
+  text-align: center;
+}
+header{
+  background-color: brown;
+}
+main{
+  background-color: burlywood;
+}
+footer{
+  background-color: brown;
+}
+h1{
+  color: yellowgreen;
+}
+h2{
+  color: black;
+}
+p{
+  text-align: justify;
+}
+ul{
+  list-style-position: inside;
+}
+h2:hover{
+  color: red;
+}
+h1:hover{
+  color: red;
+}
