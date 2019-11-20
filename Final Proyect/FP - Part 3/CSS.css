@@ -1,37 +1,37 @@
 .subtitulo-main{
-  background-color: lightcoral;
-  color: blue;
-  font-size: 30px;
+  background-color: #Cambiar;
+  color: #Cambiar;
+  font-size: #Cambiar;
 }
 .imagen-main{
-  width: 50%;
-  height: auto;
+  width: #Cambiar;
+  height: #Cambiar;
 }
 .imagen-footer{
-  width: 5%;
-  height: auto;
+  width: #Cambiar;
+  height: #Cambiar;
 }
 #consejos{
-  background-color: lightblue;
+  background-color: #Cambiar;
 }
 body{
-  font-family: 'Satisfy', cursive;
+  font-family: #Cambiar;
   text-align: center;
 }
 header{
-  background-color: brown;
+  background-color: #Cambiar;
 }
 main{
-  background-color: burlywood;
+  background-color: #Cambiar;
 }
 footer{
-  background-color: brown;
+  background-color: #Cambiar;
 }
 h1{
-  color: yellowgreen;
+  color: #Cambiar;
 }
 h2{
-  color: black;
+  color: #Cambiar;
 }
 p{
   text-align: justify;
@@ -40,8 +40,8 @@ ul{
   list-style-position: inside;
 }
 h2:hover{
-  color: red;
+  color: #Cambiar;
 }
 h1:hover{
-  color: red;
+  color: #Cambiar;
 }
