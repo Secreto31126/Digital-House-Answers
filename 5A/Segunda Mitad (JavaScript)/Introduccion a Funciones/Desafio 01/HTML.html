@@ -1,0 +1,52 @@
+<!-- Copia y pega aquí el HTML del paso anterior -->
+<!-- Copia y pega aquí el HTML del paso anterior -->
+<!-- Copia y pega aquí el HTML del paso anterior -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Laberinto Robótico</title>
+</head>
+  <body>
+
+    <div id="panelJuego">
+      <div id="elemento-escenario">
+        <div id="robot1" onclick="saludar()"></div>
+      </div>
+    </div>
+
+    <div class="panelDerecho">
+
+      <div id="panelMensajes"></div>
+
+      <div id="teclas">
+        <div class="fila1">
+          <div class="letra">
+            <button disabled></button>
+          </div>
+          <div class="letra">
+            <button id="botonArriba" onclick="moverArriba()">&#x21e7;</button>
+          </div>
+          <div class="letra">
+            <button disabled></button>
+          </div>
+        </div>
+        <div class="fila2">
+          <div class="letra">
+            <button id="botonIzquierda" onclick="moverIzquierda()">&#x21e6;</button>
+          </div>
+          <div class="letra">
+            <button id="botonAbajo" onclick="moverAbajo()">&#x21e9;</button>
+          </div>
+          <div class="letra">
+            <button id="botonDerecha" onclick="moverDerecha()">&#x21e8;</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <button id="botonConfiguracion" onclick="cambiarDisfraz()">&#x2699;</button>
+
+  </body>
+</html>
